@@ -1,0 +1,2 @@
+INFO This is an info message using logger2 
+INFO This is an info message using logger2 
